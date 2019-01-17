@@ -63,15 +63,11 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
-  Otherwise email to book an appointment
-  """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "jingyi@mail.nankai.edu.cn"
+  address = "No.38, Tongyan Road, Jinnan District, Tianjin" 
+  office_hours = ""
+  phone = ""
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -300,10 +296,18 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
+
+
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Experience"
+  url = "#Experience"
   weight = 2
+
+
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
 [[menu.main]]
   name = "Posts"
@@ -315,15 +319,11 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
