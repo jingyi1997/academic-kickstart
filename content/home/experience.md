@@ -21,6 +21,6 @@ date_format = "January 2006"
 
 +++
 
-- <p style="text-align:left;"> Research Intern at SenseTime, Beijing <span style="float:right;">Dec 2018 - Present</span>
-- <p style="text-align:left;"> Research Intern at Panasonic R&D Center,Singapore <span style="float:right;">Sep 2018 - Dec 2018</span>
-- <p style="text-align:left;"> Research Assistant at Notre Dame University, USA  <span style="float:right;">July 2018 - Sep 2018</span>
+- <p style="text-align:left;"> Research Intern at SenseTime, Beijing <span style="float:right;">Dec 2018 - Present</span></p>
+- <p style="text-align:left;"> Research Intern at Panasonic R&D Center,Singapore <span style="float:right;">Sep 2018 - Dec 2018</span></p>
+- <p style="text-align:left;"> Research Assistant at Notre Dame University, USA  <span style="float:right;">July 2018 - Sep 2018</span></p>
