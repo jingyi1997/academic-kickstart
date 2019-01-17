@@ -21,6 +21,6 @@ date_format = "January 2006"
 
 +++
 
-### Research Intern at SenseTime,Beijing  <div style="text-align: right"> Dec 2018 - Present</div>
-### Research Intern at Panasonic R&D Center,Singapore  <div style="text-align: right"> Sep 2018 - Dec 2018</div>
-### Research Assistant at Notre Dame University, USA  <div style="text-align: right"> July 2018 - Sep 2018</div>
+- Research Intern at SenseTime,Beijing  <div style="text-align: right"> Dec 2018 - Present</div>
+- Research Intern at Panasonic R&D Center,Singapore  <div style="text-align: right"> Sep 2018 - Dec 2018</div>
+- Research Assistant at Notre Dame University, USA  <div style="text-align: right"> July 2018 - Sep 2018</div>
