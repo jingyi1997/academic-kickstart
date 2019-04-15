@@ -35,6 +35,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+
 ## 2019
 
 * Kai Zhao, **Jingyi Xu**, Mingming Cheng. **RegularFace: Deep Face Recognition via Exclusive Regularization.** 
