@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+
 subtitle = ""
 
 # Order that this section will appear in.
@@ -20,6 +20,8 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
+
+# Experience
 
 - <p style="text-align:left;"> Research Intern at SenseTime, Beijing <span style="float:right;">Dec 2018 - Present</span></p>
 - <p style="text-align:left;"> Research Intern at Panasonic R&D Center,Singapore <span style="float:right;">Sep 2018 - Dec 2018</span></p>
