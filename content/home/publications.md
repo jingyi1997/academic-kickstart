@@ -12,7 +12,7 @@ weight = 40
 
 +++
 
-
+<\br>
 ## 2019
 
 * Kai Zhao, **Jingyi Xu**, Mingming Cheng. **RegularFace: Deep Face Recognition via Exclusive Regularization.** 
