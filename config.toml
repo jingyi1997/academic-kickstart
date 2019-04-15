@@ -50,11 +50,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Jingyi Xu"
-  role = "Undergraduate"
+  #role = "Undergraduate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Nankai University", url = "" } ]
+  #organizations = [ { name = "Nankai University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -268,7 +268,7 @@ enableGitInfo = false
 
 
 [[menu.main]]
-  name = "Intern"
+  name = "Experience"
   url = "#intern"
   weight = 3
 
