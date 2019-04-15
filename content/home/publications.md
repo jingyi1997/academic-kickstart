@@ -1,15 +1,13 @@
 +++
-# Recent Publications widget.
-# This widget displays recent publications from `content/publication/`.
-widget = "publications"
+# Publications widget.
+widget = "custom"
+title = "Publications"
 active = true
 date = 2016-04-20T00:00:00
-
-title = "Recent Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 40
 
 # Number of publications to list.
 count = 10
@@ -37,3 +35,6 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+## 2019
+
+* Kai Zhao, **Jingyi Xu**, Mingming Cheng. **RegularFace: Deep Face Recognition via Exclusive Regularization.** 
