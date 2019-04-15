@@ -15,4 +15,4 @@ weight = 40
 
 ## 2019
 
-* Kai Zhao, **Jingyi Xu**, Mingming Cheng. **RegularFace: Deep Face Recognition via Exclusive Regularization.** 
+* Kai Zhao, **Jingyi Xu**, Mingming Cheng. **RegularFace: Deep Face Recognition via Exclusive Regularization.** IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019. 
