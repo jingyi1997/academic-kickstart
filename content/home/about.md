@@ -1,4 +1,4 @@
-++
++++
 # About/Biography widget.
 widget = "about"
 active = true
