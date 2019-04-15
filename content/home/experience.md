@@ -1,7 +1,7 @@
 +++
 # Experience widget.
-widget = "experience"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+widget = "custom"  # Do not modify this line!
+active = false # Activate this widget? true/false
 date = 2016-04-20T00:00:00
 subtitle = ""
 
