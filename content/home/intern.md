@@ -5,7 +5,7 @@ date = 2016-04-20T00:00:00
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 3
+weight = 4
 
 
 
@@ -14,6 +14,6 @@ weight = 3
 # Experience
 
 
-* Research Intern at SenseTime, Beijing 
-* Research Intern at Panasonic R&D Center,Singapore 
-* Research Assistant at Notre Dame University, USA  
+* Research Intern at SenseTime, Beijing, Dec 2018 - Present
+* Research Intern at Panasonic R&D Center,Singapore, Sep 2018 - Dec 2018 
+* Research Assistant at Notre Dame University, USA, June 2018 - Sep 2018  
