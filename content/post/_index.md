@@ -10,6 +10,8 @@ list_format = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "portrait.jpg"
 caption = ""
 +++
+
+#My trip to Serbia
