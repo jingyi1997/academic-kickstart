@@ -14,5 +14,5 @@ image = ""
 caption = ""
 +++
 
-# Travel Post
+
 ## <a href='serbia/index.md'> My Graduate Trip to Serbia and Bosnia with Mom </a>
