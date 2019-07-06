@@ -15,4 +15,4 @@ caption = ""
 +++
 
 
-## <a href='serbia/index.md'> My Graduate Trip to Serbia and Bosnia with Mom </a>
+## <a href='post/page/1/index.html'> My Graduate Trip to Serbia and Bosnia with Mom </a>
