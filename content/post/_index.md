@@ -10,8 +10,9 @@ list_format = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "portrait.jpg"
+image = ""
 caption = ""
 +++
 
-#My trip to Serbia
+# Travel Post
+## <a href='serbia/index.md'> My Graduate Trip to Serbia and Bosnia with Mom </a>
