@@ -35,6 +35,6 @@ weight = 1
 
 # About
 
-Hi! I am Jingyi Xu, a senior student in the <a href="cc.nankai.edu.cn/index">College of Computer Science</a> at <a href="">Nankai University</a>.
+Hi! I am Jingyi Xu, a first year PhD student at <a href="www.stonybrook.edu">Stony Brook University</a>.
 My research interets lie in the field of Computer Vision and Deep Learning, with a focus on Face Recognition and Generative Models.
 For more information, please refer to my <a href="CV.pdf">Curriculum Vitae</a>.

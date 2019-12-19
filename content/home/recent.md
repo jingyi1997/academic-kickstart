@@ -14,4 +14,4 @@ weight = 2
 # Updates
 
 
-* I will pursue my Ph.D degree at the <a href="https://www3.cs.stonybrook.edu/~cvl/">CV Lab</a> of Stony Brook University under the supervision of Prof. <a href="https://www3.cs.stonybrook.edu/~samaras/">Dimitris Samaras</a>.
+* Start my Ph.D. at Stony Brook Computer Science!
