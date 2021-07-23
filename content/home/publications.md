@@ -13,6 +13,6 @@ weight = 3
 
 # Publications
 
-**Jingyi Xu**, Hieu Le, Mingzhen Huang, ShahRukh Athar, Dimitris Samaras. **Variational Feature Disentangling for Fine-Grained Few-Shot Classification.** IEEE International Conference on Computer Vision (ICCV) 2021.
-* Kai Zhao, **Jingyi Xu**, Mingming Cheng. **RegularFace: Deep Face Recognition via Exclusive Regularization.** IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019. 
+* **Jingyi Xu**, Hieu Le, Mingzhen Huang, ShahRukh Athar, Dimitris Samaras. **Variational Feature Disentangling for Fine-Grained Few-Shot Classification.** IEEE International Conference on Computer Vision (ICCV) 2021.
+* * Kai Zhao, **Jingyi Xu**, Mingming Cheng. **RegularFace: Deep Face Recognition via Exclusive Regularization.** IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019. 
 
