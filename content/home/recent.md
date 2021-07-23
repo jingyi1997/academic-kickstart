@@ -14,4 +14,5 @@ weight = 2
 # Updates
 
 
-* Start my Ph.D. at Stony Brook Computer Science!
+* 07/2021: One **ICCV'21** paper on few-shot image classification is accepted.
+* 09/2019: Start my Ph.D. at Stony Brook Computer Science!
