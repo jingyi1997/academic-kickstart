@@ -14,6 +14,7 @@ weight = 4
 # Experience
 
 
+* Research Intern at NEC Lab, CA, May 2021 - Aug 2021
 * Research Intern at SenseTime, Beijing, Dec 2018 - July 2019
 * Research Intern at Panasonic R&D Center,Singapore, Sep 2018 - Dec 2018 
 * Research Assistant at Notre Dame University, USA, June 2018 - Sep 2018  
