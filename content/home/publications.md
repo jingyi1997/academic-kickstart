@@ -13,14 +13,6 @@ weight = 3
 
 # Publications
 
-#* **Jingyi Xu**, Hieu Le. **Generating Representative Samples for Few-Shot Classification.** IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.
-#* **Jingyi Xu**, Hieu Le, Mingzhen Huang, ShahRukh Athar, Dimitris Samaras. **Variational Feature Disentangling for Fine-Grained Few-Shot Classification.** IEEE International Conference on Computer Vision (ICCV) 2021.
-#* Kai Zhao, **Jingyi Xu**, Mingming Cheng. **RegularFace: Deep Face Recognition via Exclusive Regularization.** IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019. 
-<div class="container">
-      <div class="image">
-        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg">
-      </div>
-      <div class="text">
-        <h1>Paris is one of the most beautiful cities in France.</h1>
-      </div>
-</div>
+* **Jingyi Xu**, Hieu Le. **Generating Representative Samples for Few-Shot Classification.** IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.
+* **Jingyi Xu**, Hieu Le, Mingzhen Huang, ShahRukh Athar, Dimitris Samaras. **Variational Feature Disentangling for Fine-Grained Few-Shot Classification.** IEEE International Conference on Computer Vision (ICCV) 2021.
+* Kai Zhao, **Jingyi Xu**, Mingming Cheng. **RegularFace: Deep Face Recognition via Exclusive Regularization.** IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019. 
