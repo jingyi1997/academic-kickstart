@@ -14,6 +14,7 @@ weight = 4
 # Experience
 
 
+* Research Intern at Amazon, Seattle, May 2023 - July 2023
 * Research Intern at NEC Lab, CA, May 2021 - Aug 2021
 * Research Intern at SenseTime, Beijing, Dec 2018 - July 2019
 * Research Intern at Panasonic R&D Center,Singapore, Sep 2018 - Dec 2018 

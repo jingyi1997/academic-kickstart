@@ -14,7 +14,7 @@ weight = 2
 # Updates
 
 
-* 07/2024: One **ECCV'24** paper on sample quality assessment accepted.
+* 07/2024: One **ECCV'24** paper on sample quality assessment is accepted.
 * 06/2024: Successfully defended my Ph.D.!
 * 05/2023: Start my internship at Amazon (Seattle).
 * 02/2023: Two **CVPR'23** papers on few-shot object detection and object counting are accepted.
