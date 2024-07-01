@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo"
+  command = "ssh-keyscan github.com >> ~/.ssh/known_hosts hugo"
 
 [context.production.environment]
   HUGO_VERSION = "0.50"
