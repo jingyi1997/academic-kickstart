@@ -14,7 +14,7 @@ weight = 3
 # Publications
 
 * <img align="left" src="img/wacv25.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Learning to Count from Pseudo-Labeled Segmentation.** <br> 
-&nbsp; **Jingyi Xu**, <span style="color:gray"> Hieu Le, Dimitris Samaras. </span> <br> &nbsp; European Conference on Computer Vision (**WACV**) 2025. <br> <br> 
+&nbsp; **Jingyi Xu**, <span style="color:gray"> <a href="https://hieulem.github.io/">Hieu Le</a>, Dimitris Samaras. </span> <br> &nbsp; European Conference on Computer Vision (**WACV**) 2025. <br> <br> 
 * <img align="left" src="img/eccv24.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Assessing Sample Quality via the Latent Space of Generative Models.** <br> 
 &nbsp; **Jingyi Xu**, <span style="color:gray"> Hieu Le, Dimitris Samaras. </span> <br> &nbsp; European Conference on Computer Vision (**ECCV**) 2024. <br> <br> 
 * <img align="left" src="img/zero_shot.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Zero-Shot Object Counting.** <br> 
