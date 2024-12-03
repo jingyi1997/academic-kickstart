@@ -13,7 +13,7 @@ weight = 2
 
 # Updates
 
-* Oct/2024: One **WACV'25** paper on object counting is accepted.
+* 10/2024: One **WACV'25** paper on object counting is accepted.
 * Jul/2024: One **ECCV'24** paper on sample quality assessment is accepted.
 * Jun/2024: Successfully defended my Ph.D.!
 * May/2023: Start my internship at Amazon (Seattle).
