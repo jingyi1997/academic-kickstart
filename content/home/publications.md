@@ -17,7 +17,7 @@ weight = 3
 * <img align="left" src="img/eccv24.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Assessing Sample Quality via the Latent Space of Generative Models.** <br> 
 &nbsp; **Jingyi Xu**, Hieu Le, Dimitris Samaras. <br> &nbsp; European Conference on Computer Vision (**ECCV**) 2024. <br> <br> 
 
-* <img align="left" src="img/eccv24.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Zero-Shot Object Counting.** <br> 
+* <img align="left" src="img/zero_shot.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Zero-Shot Object Counting.** <br> 
 &nbsp; **Jingyi Xu**, Hieu Le, Vu Nguyen, Viresh Ranjan, Dimitris Samaras. <br> &nbsp; IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023. <br> <br>
 
 * <img align="left" src="img/eccv24.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Generating Features With Increased Crop-related Diversity For Few-shot Object Detection.** <br> &nbsp; **Jingyi Xu**, Hieu Le, Dimitris Samaras. <br> &nbsp; IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023. <br> <br>
