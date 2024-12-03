@@ -35,6 +35,6 @@ weight = 1
 
 # About
 
-Hi! I am Jingyi Xu. I received my Ph.D. degree at <a href="http://www.stonybrook.edu">Stony Brook University</a>, working with Professor <a href="https://www3.cs.stonybrook.edu/~samaras/">Dimitris Samaras</a>.
-My research interets lie in the field of Computer Vision and Deep Learning, with a focus on representation learning and transfer/low-shot learning.
-For more information, please refer to my <a href="CV.pdf">Curriculum Vitae</a>.
+Hi! I am Jingyi Xu. I received my Ph.D. degree at <a href="http://www.stonybrook.edu">Stony Brook University</a>, working with Professor <a href="https://www3.cs.stonybrook.edu/~samaras/">Dimitris Samaras</a>. Before that, I received my B.S. degree at Nankai University.
+My research interets lie in the field of Computer Vision and Deep Learning, with a focus on generative modeling and representation learning. 
+
