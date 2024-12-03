@@ -13,8 +13,12 @@ weight = 3
 
 # Publications
 
-* ![image](path-to-image.jpg){: style="float: left"}
-Some text.
+
+
+* <img align="left" src="../../static/img/eccv24.png" alt="drawing" width="200" height="120"/> <br>  **Assessing Sample Quality via the Latent Space of Generative Models.** <br> 
+ **Jingyi Xu**, Hieu Le, Dimitris Samaras. <br> European Conference on Computer Vision (**ECCV**) 2024. <br> <br> 
+
+  
 * **Jingyi Xu**, Hieu Le, Dimitris Samaras. **Assessing Sample Quality via the Latent Space of Generative Models.** European Conference on Computer Vision (**ECCV**) 2024.
 * **Jingyi Xu**, Hieu Le, Vu Nguyen, Viresh Ranjan, Dimitris Samaras. **Zero-shot Object Counting.** IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023.
 * **Jingyi Xu**, Hieu Le, Dimitris Samaras. **Generating Features With Increased Crop-related Diversity For Few-shot Object Detection.** IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023.
