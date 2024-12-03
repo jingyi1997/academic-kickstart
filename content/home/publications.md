@@ -15,7 +15,7 @@ weight = 3
 
 
 
-* <img align="left" src="../../static/img/eccv24.png" alt="drawing" width="200" height="120"/> <br>  **Assessing Sample Quality via the Latent Space of Generative Models.** <br> 
+* <img align="left" src="img/eccv24.png" alt="drawing" width="200" height="120"/> <br>  **Assessing Sample Quality via the Latent Space of Generative Models.** <br> 
  **Jingyi Xu**, Hieu Le, Dimitris Samaras. <br> European Conference on Computer Vision (**ECCV**) 2024. <br> <br> 
 
   
