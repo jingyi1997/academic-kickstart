@@ -14,14 +14,14 @@ weight = 3
 # Publications
 
 * <img align="left" src="img/wacv25.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Learning to Count from Pseudo-Labeled Segmentation.** <br> 
-&nbsp; **Jingyi Xu**, <span style="color:gray"> Hieu Le, Dimitris Samaras. </span>. <br> &nbsp; European Conference on Computer Vision (**WACV**) 2025. <br> <br> 
+&nbsp; **Jingyi Xu**, <span style="color:gray"> Hieu Le, Dimitris Samaras. </span> <br> &nbsp; European Conference on Computer Vision (**WACV**) 2025. <br> <br> 
 * <img align="left" src="img/eccv24.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Assessing Sample Quality via the Latent Space of Generative Models.** <br> 
-&nbsp; **Jingyi Xu**, Hieu Le, Dimitris Samaras. <br> &nbsp; European Conference on Computer Vision (**ECCV**) 2024. <br> <br> 
+&nbsp; **Jingyi Xu**, <span style="color:gray"> Hieu Le, Dimitris Samaras. </span> <br> &nbsp; European Conference on Computer Vision (**ECCV**) 2024. <br> <br> 
 * <img align="left" src="img/zero_shot.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Zero-Shot Object Counting.** <br> 
-&nbsp; **Jingyi Xu**, Hieu Le, Vu Nguyen, Viresh Ranjan, Dimitris Samaras. <br> &nbsp; IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023. <br> <br>
-* <img align="left" src="img/detection.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Generating Features With Increased Crop-related Diversity For Few-shot Object Detection.** <br> &nbsp; **Jingyi Xu**, Hieu Le, Dimitris Samaras. <br> &nbsp; IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023. <br> <br>
-* <img align="left" src="img/few_shot.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Generating Representative Samples for Few-Shot Classification.** <br> &nbsp; **Jingyi Xu**, Hieu Le. <br> &nbsp; IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2022. <br> <br>
-* <img align="left" src="img/few_shot2.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Variational Feature Disentangling for Fine-Grained Few-Shot Classification.** <br> &nbsp; **Jingyi Xu**, Hieu Le, Mingzhen Huang, ShahRukh Athar, Dimitris Samaras. <br> &nbsp; IEEE International Conference on Computer Vision (**ICCV**) 2021. <br> <br>
+&nbsp; **Jingyi Xu**, <span style="color:gray"> Hieu Le, Vu Nguyen, Viresh Ranjan, Dimitris Samaras. </span> <br> &nbsp; IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023. <br> <br>
+* <img align="left" src="img/detection.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Generating Features With Increased Crop-related Diversity For Few-shot Object Detection.** <br> &nbsp; **Jingyi Xu**, <span style="color:gray"> Hieu Le, Dimitris Samaras. </span> <br> &nbsp; IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023. <br> <br>
+* <img align="left" src="img/few_shot.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Generating Representative Samples for Few-Shot Classification.** <br> &nbsp; **Jingyi Xu**, <span style="color:gray"> Hieu Le. </span> <br> &nbsp; IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2022. <br> <br>
+* <img align="left" src="img/few_shot2.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Variational Feature Disentangling for Fine-Grained Few-Shot Classification.** <br> &nbsp; **Jingyi Xu**, <span style="color:gray"> Hieu Le, Mingzhen Huang, ShahRukh Athar, Dimitris Samaras. </span> <br> &nbsp; IEEE International Conference on Computer Vision (**ICCV**) 2021. <br> <br>
 * <img align="left" src="img/face.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **RegularFace: Deep Face Recognition via Exclusive Regularization.** <br> &nbsp; Kai Zhao, **Jingyi Xu**, Mingming Cheng. <br> &nbsp; IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019. <br> <br>
 
 
