@@ -13,6 +13,7 @@ weight = 2
 
 # Updates
 
+* Jan 2025: One **ICLR'25** paper on compositional text-to-image generation is accepted.
 * Oct 2024: One **WACV'25** paper on object counting is accepted.
 * Jul 2024: One **ECCV'24** paper on sample quality assessment is accepted.
 * Jun 2024: Successfully defended my Ph.D.!
