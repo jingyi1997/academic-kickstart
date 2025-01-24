@@ -12,7 +12,7 @@ weight = 3
 +++
 
 # Publications
-
+* <img align="left" src="img/iclr25.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds.** <br> &nbsp; <span style="color:gray"> Shuangqi Li</span>, <a href="https://hieulem.github.io/"><span style="color:gray">Hieu Le</span></a>, **Jingyi Xu**, <span style="color:gray"> Mathieu Salzmann. </span> <br> &nbsp; International Conference on Learning Representations (**ICLR**) 2025. <br> <br>
 * <img align="left" src="img/wacv25.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Learning to Count from Pseudo-Labeled Segmentation.** <br> 
 &nbsp; **Jingyi Xu**,  <a href="https://hieulem.github.io/"><span style="color:gray">Hieu Le</span></a>, <a href="https://www3.cs.stonybrook.edu/~samaras/"><span style="color:gray">Dimitris Samaras.</span></a> <br> &nbsp; European Conference on Computer Vision (**WACV**) 2025. <br> <br> 
 * <img align="left" src="img/eccv24.png" alt="drawing" width="200" height="120"/> <br> &nbsp; **Assessing Sample Quality via the Latent Space of Generative Models.** <br> 
