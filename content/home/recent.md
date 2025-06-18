@@ -13,6 +13,7 @@ weight = 2
 
 # Updates
 
+* May 2025: One **MICCAI'25** paper on 3D human heart modeling is accepted.
 * Feb 2025: One **CVPR'25** paper on personalized scanpath prediction is accepted.
 * Jan 2025: One **ICLR'25** paper on compositional text-to-image generation is accepted as **spotlight**.
 * Oct 2024: One **WACV'25** paper on object counting is accepted.
