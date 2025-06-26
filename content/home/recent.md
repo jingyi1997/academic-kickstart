@@ -13,6 +13,7 @@ weight = 2
 
 # Updates
 
+* Jun 2025: Three **ICCV'25** papers on token merging, gaze target estimation and object counting are accepted.
 * May 2025: One **MICCAI'25** paper on 3D human heart modeling is accepted.
 * Feb 2025: One **CVPR'25** paper on personalized scanpath prediction is accepted.
 * Jan 2025: One **ICLR'25** paper on compositional text-to-image generation is accepted as **spotlight**.
