@@ -110,8 +110,10 @@ a:focus {
   color: #1565C0;
 }
 
-img,
-video {
+/* Only force block layout for images inside article content (safer) */
+.article-style img,
+.article-style video,
+.pub-banner {
   height: auto;
   max-width: 100%;
   display: block;
