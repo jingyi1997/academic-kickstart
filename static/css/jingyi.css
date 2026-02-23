@@ -1137,3 +1137,18 @@ div.alert a:hover {
   animation: none !important;
   -webkit-animation: none !important;
 }
+/* Hard-unhide homepage sections (robust) */
+.home-section,
+.home-section * {
+  opacity: 1 !important;
+  visibility: visible !important;
+  animation: none !important;
+  -webkit-animation: none !important;
+}
+
+/* Also unhide the main content container just in case */
+.universal-wrapper,
+.universal-wrapper * {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
