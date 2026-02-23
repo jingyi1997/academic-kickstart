@@ -1152,3 +1152,10 @@ div.alert a:hover {
   opacity: 1 !important;
   visibility: visible !important;
 }
+/* Prevent accidental collapsing to zero height */
+.home-section {
+  display: block !important;
+  height: auto !important;
+  min-height: 1px !important;
+  position: relative !important;
+}
