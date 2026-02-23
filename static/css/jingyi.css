@@ -1131,4 +1131,37 @@ div.alert a:hover {
   border-color: #ebccd1;
 }
 
+.pub-item{
+  display:flex;
+  gap:16px;
+  align-items:flex-start;
+  margin: 18px 0;
+}
+
+.pub-thumb img{
+  width:200px;
+  max-width:200px;
+  height:auto;            /* important: avoid fixed height */
+  border-radius:6px;
+  display:block;
+}
+
+.pub-text{
+  flex:1;
+  min-width: 0;           /* prevents overflow on iOS */
+}
+
+.muted{ color: #777; }
+
+/* Mobile / iPad portrait: stack */
+@media (max-width: 768px){
+  .pub-item{
+    flex-direction:column;
+    gap:10px;
+  }
+  .pub-thumb img{
+    width:100%;
+    max-width:420px;      /* reasonable cap */
+  }
+}
 
