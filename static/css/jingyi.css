@@ -1161,3 +1161,16 @@ div.alert a:hover {
   min-height: 1px !important;
   position: relative !important;
 }
+/* --- FIX: proper clearfix (prevents collapsed section height) --- */
+.row:after {
+  clear: both;
+}
+
+/* --- FIX: don't globally force all images/videos to be block --- */
+.article-style img,
+.article-style video,
+.pub-banner {
+  height: auto;
+  max-width: 100%;
+  display: block;
+}
