@@ -20,6 +20,10 @@
   content: " ";
   display: table;
 }
+/* Restore Bootstrap clearfix behavior (your override removed it) */
+.row::after {
+  clear: both;
+}
 
 html {
   font-family: 'Lucida Grande', sans-serif;
